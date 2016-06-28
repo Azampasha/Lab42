@@ -5,7 +5,8 @@ public class Fee {
 	double totalfee;
 	double feepaid;
 	double feeBal;
-//feeeeeeee
+//feeeeeeess
+	
 	public Fee(double totalfee, double feepaid, double feeBal) {
 		super();
 
