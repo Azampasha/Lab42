@@ -4,7 +4,7 @@ import java.beans.PropertyEditorSupport;
 
 
 public class feeEditor extends PropertyEditorSupport {
-	 
+	 //nnniiiiiddddhhhhiiiiii
 	public void setAsText(String txt){
 		String str[]=txt.split(",");
 Fee fee=new Fee(Double.parseDouble(str[0]),Double.parseDouble(str[1]),Double.parseDouble(str[2]));
